@@ -1,0 +1,8 @@
+{
+    "build": {
+      "releaseChannel": "default",
+      "platform": "android",
+      "artifactType": "apk"
+    }
+}
+  
